@@ -4,4 +4,19 @@ margin-left: 30px;
 width: 70px;
 height: 40px;
 margin-top: 10px;
+align-items: center; 
+  justify-content: space-between;
+}
+.search-box{
+    display:flex;
+    align-items: center;
+}
+span{
+  color: #2f4f6f; /* similar to your image’s blue tone */
+  display: flex;
+  align-items: center;
+  gap: 8px; /* space between snowflake and text */
+  font-family: 'Poppins', sans-serif;
+
+
 }

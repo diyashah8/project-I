@@ -15,14 +15,15 @@
 <body>
     <header>
         <div class="logo">
-            <p><strog>Frostique</strog></p>
-                <input type="text" placeholder="search in Frostique............">
-                <button id="voiceBtn" class="fa-solid fa-microphone"></button>
-                <button id="cameraBtn" class="fa-solid fa-microphone"></button>
-                <input type="file" id="cameraInput" accept="image/*" capture="camera" style="display:none;">
-                <button><i class="fa-solid fa-magnifying-glass"></i></button>
-                <buttom><i class="fa-solid fa-cart-shopping"></i></buttom>
-                <button class="login-btn">Login</button>
+            <span> &#9924; Frostique</span>
+          <input type="text" placeholder="search in Frostique............&#128269;">
+                <a herf="voiceBtn" >&#127908;</a>
+                <a href="cameraBtn">&#128247;</a>
+        
+    <a herf="magnifying-glass">&#128269;</a>
+            <a href="card.php">&#128722;</a>   
+            <button><a href="login.php">Login</button>
+        </div>
         </div>
     </header>
 </body>
