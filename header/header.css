@@ -1,22 +1,32 @@
-.logo{
-display: flex;
-margin-left: 30px;
-width: 70px;
-height: 40px;
-margin-top: 10px;
-align-items: center; 
-  justify-content: space-between;
-}
-.search-box{
-    display:flex;
-    align-items: center;
-}
-span{
-  color: #2f4f6f; /* similar to your image’s blue tone */
+
+header {
+  background-color: #b6c5d4;  
   display: flex;
   align-items: center;
-  gap: 8px; /* space between snowflake and text */
-  font-family: 'Poppins', sans-serif;
-
-
+  justify-content: space-between;
+  padding: 10px 20px;
+  border-radius: 5px;
 }
+.f{
+color: #2f4f6f;
+  font-size: 22px;
+  font-family: 'Poppins', sans-serif;
+  align-items: center;
+  gap: 8px;
+}
+.search-bar{
+  width: 265px;   
+  height: 20px; 
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: F5F5F5; 
+color: black;
+}
+.voice, .camera, .mag-glass{
+height: 34px;
+gap: 0px;
+padding: 0px 0px;
+margin: 0px;
+background-color: F5F5F5;
+}
+
