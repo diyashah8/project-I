@@ -13,20 +13,32 @@ color: #2f4f6f;
   font-family: 'Poppins', sans-serif;
   align-items: center;
   gap: 8px;
+  
+}
+input::placeholder{
+  color:black;
+  font-size: small;
 }
 .search-bar{
-  width: 265px;   
+  width: 600px;   
   height: 20px; 
   padding: 5px 10px;
   font-size: 16px;
-  background-color: F5F5F5; 
+   background-color: rgba(217, 217, 217, 0.37);
+   border: none;
 color: black;
 }
 .voice, .camera, .mag-glass{
-height: 34px;
-gap: 0px;
+height: 30px;
+gap: 0px,;
 padding: 0px 0px;
 margin: 0px;
-background-color: F5F5F5;
+background-color: rgba(217, 217, 217, 0.37);
+border: none;
 }
+.login{
+        background-color: rgba(137, 191, 239, 1);
+        border: none;
+        border-radius: 0px;
+    }
 

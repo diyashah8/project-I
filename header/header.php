@@ -21,7 +21,7 @@
                 <button class="camera"><a href="cameraBtn">&#128247;</a></button>
                  <button class="mag-glass"><a herf="magnifying-glass">&#128269;</a></button>
             <a href="card.php"><span>&#128722;</span></a>   
-            <button><a href="login.php">Login</button>
+            <button class="login"><a href="login.php">Login</button>
              </nav>
         </div>
         </div>

@@ -8,32 +8,49 @@
 <style>
 .container{
     text-align: center;
-    padding: 10px 20px;
-    
+    padding: 0px 20px;
+    font-size: large;
 }
+
  .forthe{
         color: red;
     }
     .ph, .password{
-        background-color: D9D9D9;
-    
+        background-color:lightgrey; 
+        border: none;
+         width: 400px;   
+  height: 20px; 
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 3px;
     }
-    .button{
-        background-color: BAC7D4;
+     input::placeholder{
+        color: black;
+        font-size: small;
+        text-align: left;
+    }
+    .login{
+        background-color: rgba(186, 199, 212, 1);
+        border: none;
+        border-radius: 5px;
+         width: 420px;   
+  height: 30px; 
+  font-size: larger;
     }
 </style>
 <body>
     <div class="container">
     <h1>Frostique</h1>
-    <p1>Luxury Warmth </p>                   <span class="forthe">for the</span> 
-                                                                         <p>Modern You</p>
+    <p><span  style="margin-right: 150px;">Luxury Warmth </span></p>
+    <p><span  style="margin-left: 50px;" class="forthe">for the</span></p>
+    <p> <span  style="margin-left: 250px;" >Modern You</span></p>
     <form class="form">
         <input type="text" class="ph" placeholder="ph.no,username or email"><br><br>
         <input type="text" class="password" placeholder="password"><br><br>
-        <button>Login</button>
+        <button class="login">Login</button>
     </form>
     <p>Forget password?</p>
-    <p>Don't have an account? <a href="signup.php" class="sign up">sign up</a></p>
+    <p>Don't have an account? <a href="signup.php" class="signup">sign up</a></p>
     </div>
 </body>
 </html>
