@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <header>
+    <header class="header">
         <div class="logo"><nav>
             <span class="f"> &#9924; Frostique</span>
           <input type="text" class="search-bar" placeholder="search in Frostique..................">

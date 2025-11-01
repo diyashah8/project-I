@@ -12,8 +12,8 @@
     font-size: large;
     }
     .form{
-background-color:rgba(217, 217, 217, 1); 
-        border: none;
+background-color:white; 
+        border: 3px solid rgba(217, 217, 217, 1); 
          width: 400px;   
   height: 20px; 
   padding: 5px 10px;
@@ -27,10 +27,10 @@ background-color:rgba(217, 217, 217, 1);
         text-align: left;
     }
 .country{
-    background-color:rgba(217, 217, 217, 1); 
-    border: none;
-         width: 420px;   
-  height: 30px; 
+    background-color:white; 
+        border: 3px solid rgba(217, 217, 217, 1); 
+         width: 430px;   
+  height: 34px; 
   padding: 5px 10px;
   font-size: 16px;
   border-radius: 3px;
@@ -38,11 +38,14 @@ background-color:rgba(217, 217, 217, 1);
     .signup{
         background-color: rgba(186, 199, 212, 1);
         border: none;
-         width: 420px;   
-  height: 45px; 
+         width: 425px;   
+  height: 38px; 
   padding: 5px 10px;
   font-size: 16px;
   border-radius: 3px;
+    }
+    .login{
+        color: rgba(41, 143, 233, 1);
     }
 </style>
 <body>

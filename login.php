@@ -37,6 +37,9 @@
   height: 30px; 
   font-size: larger;
     }
+    .signup{
+color: rgba(41, 143, 233, 1);
+    }
 </style>
 <body>
     <div class="container">

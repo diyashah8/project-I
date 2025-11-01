@@ -13,3 +13,6 @@ require("header/header.php");
     <h1></h1>
 </body>
 </html>
+<?php
+require("header/footer.php")
+?>
