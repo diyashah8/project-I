@@ -23,7 +23,12 @@ require("header/header.php");
 ?>
  <img src="snow.jpg" alt="homepage" height="600px" width="1093">
  <h1> Best Selling</h1>
- <p>    Get in the trend with our best selection styles</p>
+ <p>Get in the trend with our best selection styles</p>
+ <div>
+    <img src="" alt="">
+    <img src="" alt="">
+    <img src="" alt="">
+ </div>
 <?php
 require("header/footer.php")
 ?>
