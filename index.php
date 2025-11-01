@@ -1,6 +1,4 @@
-<?php
-require("header/header.php");
-?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -9,10 +7,26 @@ require("header/header.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<style>
+    .container{
+        padding: 10px 20px;
+    }
+    h1{
+        align-items: center;
+    }
+</style>
+
 <body>
-    <h1></h1>
-</body>
-</html>
+    <div class="container">
+        <?php
+require("header/header.php");
+?>
+ <img src="snow.jpg" alt="homepage" height="600px" width="1093">
+ <h1> Best Selling</h1>
+ <p>    Get in the trend with our best selection styles</p>
 <?php
 require("header/footer.php")
 ?>
+ </div>
+</body>
+</html>

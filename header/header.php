@@ -24,7 +24,7 @@
             <button class="login"><a href="login.php">Login</button>
              </nav>
         </div>
-        </div>
+    
     </header>
 </body>
 
