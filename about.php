@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="container">
-    <img src="/pictures/2.jpg" alt="show mountain" width="1100" height="500">
+    <img src="./pictures/about.jpg" alt="show mountain" width="1100" height="500">
     <p>Frostique is an outdoor clothing brand that specializes in luxury winter wear. 
         We create high-quality, sustainable, and stylish winter outfits designed to keep
          you warm and comfortable in every condition.Our mission is to blend elegance with 

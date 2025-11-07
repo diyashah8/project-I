@@ -51,7 +51,7 @@ background-color:white;
 <body>
     <div class="container">
         <h1>Sign up</h1>
-    <form type="form">
+    <form name="signup" method="$_POST" action="" >
 <input type="text" class="form" placeholder="First name" required><br><br>
         <input type="text" class="form" placeholder="Last name"required><br><br>
        

@@ -47,7 +47,7 @@ color: rgba(41, 143, 233, 1);
     <p><span  style="margin-right: 150px;">Luxury Warmth </span></p>
     <p><span  style="margin-left: 50px;" class="forthe">for the</span></p>
     <p> <span  style="margin-left: 250px;" >Modern You</span></p>
-    <form class="form">
+    <form name="signup" method="$_POST" action="" >
         <input type="text" class="ph" placeholder="ph.no,username or email"><br><br>
         <input type="text" class="password" placeholder="password"><br><br>
         <button class="login">Login</button>
