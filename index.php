@@ -11,8 +11,8 @@
     .container{
         padding: 10px 20px;
     }
-    h1{
-        align-items: center;
+    .q{
+    place-items: center;
     }
 </style>
 
@@ -22,12 +22,19 @@
 require("header/header.php");
 ?>
  <img src="./pictures/snow.jpg" alt="homepage" height="600px" width="1093">
+ <div class="">
  <h1> Best Selling</h1>
  <p>Get in the trend with our best selection styles</p>
+ </div>
  <div>
-    <img src="" alt="">
-    <img src="" alt="">
-    <img src="" alt="">
+    <img src="./pictures/coat.jpg" alt="" height="200px" width="200px">
+    <img src="./pictures/gloves.jpg" alt=""height="200px" width="200px">
+    <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
+ </div>
+ <div>
+    <img src="./pictures/socks.jpg" alt=""height="200px" width="200px">
+    <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
+    <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
  </div>
 <?php
 require("header/footer.php")
