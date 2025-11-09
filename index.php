@@ -32,27 +32,33 @@ require("header/header.php");
     <h3>Product 3</h3>
             <p>$30</p>
     </div>
-
+<div class="product">
     <img src="./pictures/gloves.jpg" alt=""height="200px" width="200px">
     <h3>Product 3</h3>
             <p>$30</p>
      </div>
+     <div class="product">
     <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
     <h3>Product 3</h3>
             <p>$30</p>
      </div>
  </div>
  <div class="product-container">
-    
+    <div class="product">
     <img src="./pictures/socks.jpg" alt=""height="200px" width="200px">
     <h3>Product 3</h3>
             <p>$30</p>
+               </div>
+               <div class="product">
     <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
     <h3>Product 3</h3>
             <p>$30</p>
+               </div>
+               <div class="product">
     <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
     <h3>Product 3</h3>
             <p>$30</p>
+               </div>
  </div>
 <?php
 require("header/footer.php")
