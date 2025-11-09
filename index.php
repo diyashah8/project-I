@@ -31,7 +31,7 @@ require("header/header.php");
     
     <img src="./pictures/gloves.jpg" alt=""height="200px" width="200px">
     <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
-    <P></P><p><p></p></p>
+    <P>hello</P><p>hello<p></p></p>
  </div>
  <div>
     <img src="./pictures/socks.jpg" alt=""height="200px" width="200px">
