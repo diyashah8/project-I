@@ -28,8 +28,10 @@ require("header/header.php");
  </div>
  <div>
     <img src="./pictures/coat.jpg" alt="" height="200px" width="200px">
+    
     <img src="./pictures/gloves.jpg" alt=""height="200px" width="200px">
     <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
+    <P></P>
  </div>
  <div>
     <img src="./pictures/socks.jpg" alt=""height="200px" width="200px">
