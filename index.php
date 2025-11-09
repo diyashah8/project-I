@@ -26,11 +26,15 @@ require("header/header.php");
  <h1> Best Selling</h1>
  <p>Get in the trend with our best selection styles</p>
  </div>
- <div>
+ <div class="product-container">
+    <div class="product">
     <img src="./pictures/coat.jpg" alt="" height="200px" width="200px">
-    
+    </div>
+
     <img src="./pictures/gloves.jpg" alt=""height="200px" width="200px">
+     </div>
     <img src="./pictures/jacket.jpg" alt=""height="200px" width="200px">
+     </div>
     <P>hello</P><p>hello<p></p></p>
  </div>
  <div>
