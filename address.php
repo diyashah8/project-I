@@ -81,8 +81,6 @@ input {
             <input type="text" placeholder="Last name" required>
             <input type="text" placeholder="Street address" required>
             <input type="text" placeholder="City" required>
-            <input type="text" placeholder="Zip code" required>
-
             <button type="submit" class="btn">Add address</button>
         </form>
         <a href="cheakout.php" class="return">Return</a>
